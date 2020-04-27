@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>Watsuprico</Authors>
+    <Description>Monitors and mirrors a source directory to another directory.</Description>
+    <NeutralLanguage>English</NeutralLanguage>
+  </PropertyGroup>
+
+</Project>

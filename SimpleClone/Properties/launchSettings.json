@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "SimpleClone": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\SimpleClone\\Source\" \"C:\\SimpleClone\\Destination\"",
+      "remoteDebugEnabled": false
+    }
+  }
+}
