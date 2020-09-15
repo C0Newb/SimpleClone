@@ -27,7 +27,7 @@ namespace SimpleClone
 
         private static string GetArg(string[] args, int index)
         {
-            if (args.Length >= index - 1)
+            if (args.Length >= index + 1)
                 return args[index];
             else
                 return "";
